@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ead6fb568372021013c1e030ceaad3a4" label="TestTable" max_length="40" name="x_906707_test_app_testtable" type="collection">
+        <element label="RequestNumber" max_length="40" name="requestnumber" type="string"/>
+    </element>
+</database>
